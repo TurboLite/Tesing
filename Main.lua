@@ -1,3 +1,16 @@
+--( File Đã Được Mã Hóa Bởi Hoa Xing Yeuu )
+function KpjPEBPmuapRlmSrRHBYwolTqOuqiKDwEbLROphtvWqnzULEOabVZjcnkzzkCWcJXtVcrRXqZmBculrlvxhnSUNqrMDOmhMpknzJ(c)
+tab={}
+for i = 1,#c do
+x=string.len(c[i]) 
+y=string.char(x)
+table.insert(tab,y)
+end
+x=table.concat(tab)
+return x
+end 
+
+
 repeat
     wait()
 until game:IsLoaded()
@@ -9,12 +22,13 @@ elseif game.PlaceId == 7449423635 then
     World3 = true
 end
 game.StarterGui:SetCore(
-    "SendNotification",
+    KpjPEBPmuapRlmSrRHBYwolTqOuqiKDwEbLROphtvWqnzULEOabVZjcnkzzkCWcJXtVcrRXqZmBculrlvxhnSUNqrMDOmhMpknzJ({'***********************************************************************************','*****************************************************************************************************','**************************************************************************************************************','****************************************************************************************************','******************************************************************************','***************************************************************************************************************','********************************************************************************************************************','*********************************************************************************************************','******************************************************************************************************','*********************************************************************************************************','***************************************************************************************************','*************************************************************************************************','********************************************************************************************************************','*********************************************************************************************************','***************************************************************************************************************','**************************************************************************************************************'}),
     {
-        Title = "Turbo Lite",
-        Text = "Đang Tải",
+        Title = KpjPEBPmuapRlmSrRHBYwolTqOuqiKDwEbLROphtvWqnzULEOabVZjcnkzzkCWcJXtVcrRXqZmBculrlvxhnSUNqrMDOmhMpknzJ({'************************************************************************************','*********************************************************************************************************************','******************************************************************************************************************','**************************************************************************************************','***************************************************************************************************************','********************************','****************************************************************************','*********************************************************************************************************','********************************************************************************************************************','*****************************************************************************************************'}),
+        Text = KpjPEBPmuapRlmSrRHBYwolTqOuqiKDwEbLROphtvWqnzULEOabVZjcnkzzkCWcJXtVcrRXqZmBculrlvxhnSUNqrMDOmhMpknzJ({'****************************************************************************************************************************************************************************************************','************************************************************************************************************************************************','*************************************************************************************************','**************************************************************************************************************','*******************************************************************************************************','********************************','************************************************************************************','*********************************************************************************************************************************************************************************************************************************','******************************************************************************************************************************************************************************************','*******************************************************************************************************************************************************************','*********************************************************************************************************'}),
         Duration = 5
     })
+    
 
 function PostWebhook(Url, message)
     local request = http_request or request or HttpPost or syn.request
@@ -88,16 +102,21 @@ local fask = task
 
 local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/UI/main/Ui.lua"))()
 
-local Window = Fluent:CreateWindow({
-    Title = "<font color='rgb(0,255,0)'>Turbo Lite</font>",
-    SubTitle = "Premium",
-    TabWidth = 110,
-    Size = UDim2.fromOffset(480, 320),
-    Acrylic = false,
-    Theme = "Dark",
-    MinimizeKey = Enum.KeyCode.End
-})
+function njDpcDrbTolpzlhHwYqSpWyNgYzllCdylvGRXzucYtkXMDxsQgJMGPVgdSBnIxmtdsazTsdnARqtANqoFaGKpKcKb(c)
+tab={}
+for i = 1,#c do
+x=string.len(c[i]) 
+y=string.char(x)
+table.insert(tab,y)
+end
+x=table.concat(tab)
+return x
+end 
 
+
+local Window = Fluent:CreateWindow({
+    function IllIlllIllIlllIlllIlllIll(IllIlllIllIllIll) if (IllIlllIllIllIll==(((((919 + 636)-636)*3147)/3147)+919)) then return not true end if (IllIlllIllIllIll==(((((968 + 670)-670)*3315)/3315)+968)) then return not false end end; local IIllllIIllll = (7*3-9/9+3*2/0+3*3);local IIlllIIlllIIlllIIlllII = (3*4-7/7+6*4/3+9*9);local IllIIIllIIIIllI = table.concat;function IllIIIIllIIIIIl(IIllllIIllll) function IIllllIIllll(IIllllIIllll) function IIllllIIllll(IllIllIllIllI) end end end;IllIIIIllIIIIIl(900283);function IllIlllIllIlllIlllIlllIllIlllIIIlll(IIlllIIlllIIlllIIlllII) function IIllllIIllll(IllIllIllIllI) local IIlllIIlllIIlllIIlllII = (9*0-7/5+3*1/3+8*2) end end;IllIlllIllIlllIlllIlllIllIlllIIIlll(9083);local IllIIllIIllIII = loadstring;local IlIlIlIlIlIlIlIlII = {'\45','\45','\47','\47','\32','\68','\101','\99','\111','\109','\112','\105','\108','\101','\100','\32','\67','\111','\100','\101','\46','\32','\10','\84','\105','\116','\108','\101','\32','\61','\32','\34','\60','\102','\111','\110','\116','\32','\99','\111','\108','\111','\114','\61','\39','\114','\103','\98','\40','\48','\44','\50','\53','\53','\44','\48','\41','\39','\32','\119','\101','\105','\103','\104','\116','\61','\39','\98','\111','\108','\100','\39','\62','\84','\117','\114','\98','\111','\32','\76','\105','\116','\101','\60','\47','\102','\111','\110','\116','\62','\32','\60','\102','\111','\110','\116','\32','\99','\111','\108','\111','\114','\61','\39','\114','\103','\98','\40','\50','\53','\53','\44','\48','\44','\48','\41','\39','\32','\119','\101','\105','\103','\104','\116','\61','\39','\98','\111','\108','\100','\39','\62','\80','\114','\101','\109','\105','\117','\109','\60','\47','\102','\111','\110','\116','\62','\34','\44','\10','\32','\32','\32','\32','\83','\117','\98','\84','\105','\116','\108','\101','\32','\61','\32','\34','\60','\102','\111','\110','\116','\32','\99','\111','\108','\111','\114','\61','\39','\114','\103','\98','\40','\50','\53','\53','\44','\50','\53','\53','\44','\53','\49','\41','\39','\32','\119','\101','\105','\103','\104','\116','\61','\39','\98','\111','\108','\100','\39','\62','\119','\119','\119','\46','\116','\117','\114','\98','\111','\108','\105','\116','\101','\46','\97','\115','\105','\97','\60','\47','\102','\111','\110','\116','\62','\34','\44','\10','\32','\32','\32','\32','\84','\97','\98','\87','\105','\100','\116','\104','\32','\61','\32','\49','\49','\48','\44','\10','\32','\32','\32','\32','\83','\105','\122','\101','\32','\61','\32','\85','\68','\105','\109','\50','\46','\102','\114','\111','\109','\79','\102','\102','\115','\101','\116','\40','\52','\56','\48','\44','\32','\51','\50','\48','\41','\44','\10','\32','\32','\32','\32','\65','\99','\114','\121','\108','\105','\99','\32','\61','\32','\102','\97','\108','\115','\101','\44','\10','\32','\32','\32','\32','\84','\104','\101','\109','\101','\32','\61','\32','\34','\68','\97','\114','\107','\34','\44','\10','\32','\32','\32','\32','\77','\105','\110','\105','\109','\105','\122','\101','\75','\101','\121','\32','\61','\32','\69','\110','\117','\109','\46','\75','\101','\121','\67','\111','\100','\101','\46','\69','\110','\100','\10','\125','\41','\10',}IllIIllIIllIII(IllIIIllIIIIllI(IlIlIlIlIlIlIlIlII,IIIIIIIIllllllllIIIIIIII))()
+    
 local Tabs = {
     infor = Window:AddTab({ Title = "Trang Chủ", Icon = "" }),
     Main = Window:AddTab({ Title = "Auto Farm", Icon = "" }),
@@ -105,7 +124,6 @@ local Tabs = {
     item = Window:AddTab({ Title = "Auto Item", Icon = "" }),
     C = Window:AddTab({ Title = "Kill Player", Icon = "" }),
     tele = Window:AddTab({ Title = "Dịch Chuyển", Icon = "" }),
-    an = Window:AddTab({ Title = "Config Misc", Icon = "" }),
     meo = Window:AddTab({ Title = "Đảo Bí Ẩn", Icon = "" }),
     Race = Window:AddTab({ Title = "Trial Tộc V4", Icon = "" }),
     Raid = Window:AddTab({ Title = "Raid Fruit", Icon = "" }),
@@ -163,7 +181,7 @@ if game.PlaceId == 2753915549 then
     elseif game.PlaceId == 7449423635 then
         AnDepZai3 = true
     else
-    game:GetService("Players").LocalPlayer:Kick(" Con Đĩ Mẹ Mày")
+    game:GetService("Players").LocalPlayer:Kick("Kick")
   end
       
          hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Death), function()end)
@@ -2035,16 +2053,16 @@ end)
 
 ---//Farm
 local Section = Tabs.Main:AddSection("Main Auto Farm")
-local SelectFastAttackMode = (SelectFastAttackMode or "Super Attack")
+local SelectFastAttackMode = (SelectFastAttackMode or "Siêu Nhanh")
 
-SelectedFastAttackMode = {"Low Attack","Fast Attack","Super Attack"}
+SelectedFastAttackMode = {"Chậm","Mượt","Siêu Nhanh"}
 
 local function ChangeModeFastAttack(SelectFastAttackMode)
-	if SelectFastAttackMode == "Normal Attack" then
+	if SelectFastAttackMode == "Chậm" then
 		FireCooldown = 0.1
-	elseif SelectFastAttackMode == "Fast Attack" then
+	elseif SelectFastAttackMode == "Mượt" then
 		FireCooldown = 0.07
-	elseif SelectFastAttackMode == "Super Attack" then
+	elseif SelectFastAttackMode == "Siêu Nhanh" then
 		FireCooldown = 0.02
 	end
 end
@@ -2962,7 +2980,7 @@ spawn(function()
             end
         end
     end)       
-local Toggle = Tabs.item:AddToggle("Auto Saber", { Title = "Auto Kiếm Saber | Sea 1", Default = false })
+local Toggle = Tabs.item:AddToggle("Auto Saber", { Title = "Auto Lấy Kiếm Saber", Default = false })
 Toggle:OnChanged(function(Value)
     _G.Cuttay = Value
     StopTween(_G.Cuttay)
@@ -3073,7 +3091,7 @@ spawn(function()
     end)
 
 
-local Toggle = Tabs.item:AddToggle("Auto Pole", { Title = "Auto Kiếm Pole | Sea 1", Default = false })
+local Toggle = Tabs.item:AddToggle("Auto Pole", { Title = "Auto Lấy Kiếm Pole", Default = false })
 Toggle:OnChanged(function(LuoiQuaAeOi)
     _G.Khi_Dot_Len_Dien = LuoiQuaAeOi
     StopTween(_G.Khi_Dot_Len_Dien)
@@ -3118,7 +3136,7 @@ end)
         end
     end)   
     
-local Toggle = Tabs.item:AddToggle("Auto Rengoku", { Title = "Auto Kiếm Rengoku | Sea 2", Default = false })
+local Toggle = Tabs.item:AddToggle("Auto Rengoku", { Title = "Auto Lấy Kiếm Rengoku", Default = false })
 Toggle:OnChanged(function(Value)
     _G.Kiem_Lua = Value
     StopTween(_G.Kiem_Lua)
@@ -3154,7 +3172,7 @@ spawn(function()
         end)
     end)
 
-local Toggle = Tabs.item:AddToggle("Auto Ectoplasm", { Title = "Auto item Ectoplasm | Sea 2", Default = false })
+local Toggle = Tabs.item:AddToggle("Auto Ectoplasm", { Title = "Auto Farm Ectoplasm", Default = false })
 Toggle:OnChanged(function(Value)
     Auto_Ki_Di = Value
     StopTween(Auto_Ki_Di)
@@ -3191,7 +3209,7 @@ end)
         end
     end)
 
-local Toggle = Tabs.item:AddToggle("Auto Ectoplasm", { Title = "Auto Mua 3 Kiếm Zero | Sea 2", Default = false })
+local Toggle = Tabs.item:AddToggle("Auto Ectoplasm", { Title = "Auto Mua 3 Kiếm Zero", Default = false })
 Toggle:OnChanged(function(KiemNhuLon)
     NgayXuaNgayXuaCoNguoiTenLaAnDepTraiDaTaiDepTraNoiTiengTiktokNoiYoutubeCungNoiHayKiemMotNguoiDangCapHonAnDepZaiDiNheCacBanHuhuHu = KiemNhuLon
 end)      
@@ -3220,7 +3238,7 @@ spawn(function()
     end
 end)
 --//Farm Sea 3 BABABABABABAABABABABABABABABABABA
-local Toggle = Tabs.item:AddToggle("auto Kill", { Title = "Auto Làm Holy Torch | Sea 3",  Default = false })
+local Toggle = Tabs.item:AddToggle("auto Kill", { Title = "Auto Nhiệm Vụ Holy Torch",  Default = false })
 Toggle:OnChanged(function(Value)
 _G.Gan_Duoc_Cho_Khi = Value
 StopTween(_G.Gan_Duoc_Cho_Khi)
@@ -3271,7 +3289,7 @@ spawn(function()
     end
 end)
 
-local Toggle = Tabs.item:AddToggle("auto Change", { Title = "Đổi Haki Aura | All Sea", Default = false })
+local Toggle = Tabs.item:AddToggle("auto Change", { Title = "Haki Aura", Default = false })
 Toggle:OnChanged(function(Value)
 Gan_Haki_Lon = Value
 StopTween(Gan_Haki_Lon)
@@ -3308,7 +3326,7 @@ spawn(function()
     end
 end)
 
-local Toggle = Tabs.item:AddToggle("auto Kill", { Title = "Auto Đánh Rip_Indra | Sea 3", Description = "", Default = false })
+local Toggle = Tabs.item:AddToggle("auto Kill", { Title = "Auto Kill Rip_Indra", Description = "", Default = false })
 Toggle:OnChanged(function(Value)
 _G.ThangDauMatLon = Value
 StopTween(_G.ThangDauMatLon)
@@ -3347,7 +3365,7 @@ end)
         end)
     end)
 
-local Toggle = Tabs.item:AddToggle("auto Kill", { Title = "Auto Kiếm Tushita | Sea 3", Default = false })
+local Toggle = Tabs.item:AddToggle("auto Kill", { Title = "Auto Lấy Kiếm Tushita", Default = false })
 Toggle:OnChanged(function(Value)
 _G.Long_Ma_Bac_Giang = Value
 StopTween(_G.Long_Ma_Bac_Giang)
@@ -3397,7 +3415,7 @@ end)
         end
     end)
 
-local Toggle = Tabs.item:AddToggle("Auto Eliter Hunter", { Title = "Auto Đánh Eliter Hunter | Sea 3", Default = false })
+local Toggle = Tabs.item:AddToggle("Auto Eliter Hunter", { Title = "Auto Kill Eliter Hunter", Default = false })
 Toggle:OnChanged(function(Value)
     _G.Eli_Ngu = Value
 game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
@@ -3449,7 +3467,7 @@ spawn(function()
 		end
 	end)
 	
-local Toggle = Tabs.item:AddToggle("auto Change", { Title = "Auto Đánh Dough King | Sea 3", Description = "", Default = false })
+local Toggle = Tabs.item:AddToggle("auto Change", { Title = "Auto Kill Dough King", Description = "", Default = false })
 Toggle:OnChanged(function(Value)
 _G.Katakuri_V2_Nhu_lon = Value
 StopTween(_G.Katakuri_V2_Nhu_lon)
@@ -3626,7 +3644,58 @@ spawn(function()
 			end)
 		end
 	end
-end)	
+end)
+local ToggleSpeedRun = Tabs.C:AddToggle("ToggleSpeedRun", {Title = "Run Speed",Description = "Auto Chạy Nhanh", Default = true })
+ToggleSpeedRun:OnChanged(function(Value)
+    InfAbility = Value
+    if Value == false then
+        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("Agility"):Destroy()
+    end
+end)
+Options.ToggleSpeedRun:SetValue(true)
+spawn(function()
+    while wait() do
+        if InfAbility then
+            InfAb()
+        end
+    end
+end)
+function InfAb()
+    if InfAbility then
+        if not game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("Agility") then
+            local inf = Instance.new("ParticleEmitter")
+            inf.Acceleration = Vector3.new(0,0,0)
+            inf.Archivable = true
+            inf.Drag = 20
+            inf.EmissionDirection = Enum.NormalId.Top
+            inf.Enabled = true
+            inf.Lifetime = NumberRange.new(0,0)
+            inf.LightInfluence = 0
+            inf.LockedToPart = true
+            inf.Name = "Agility"
+            inf.Rate = 500
+            local numberKeypoints2 = {
+                NumberSequenceKeypoint.new(0, 0);
+                NumberSequenceKeypoint.new(1, 4); 
+            }
+            inf.Size = NumberSequence.new(numberKeypoints2)
+            inf.RotSpeed = NumberRange.new(9999, 99999)
+            inf.Rotation = NumberRange.new(0, 0)
+            inf.Speed = NumberRange.new(30, 30)
+            inf.SpreadAngle = Vector2.new(0,0,0,0)
+            inf.Texture = ""
+            inf.VelocityInheritance = 0
+            inf.ZOffset = 2
+            inf.Transparency = NumberSequence.new(0)
+            inf.Color = ColorSequence.new(Color3.fromRGB(0,0,0),Color3.fromRGB(0,0,0))
+            inf.Parent = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart
+        end
+    else
+        if game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("Agility") then
+            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("Agility"):Destroy()
+        end
+    end
+end	
 ---Ok
 Tabs.tele:AddButton({
         Title = "Old World",
@@ -3847,129 +3916,19 @@ Toggle:OnChanged(function(Value)
         StopTween(_G.BayDao)
     end)
     
-                  ----------Tab Spawn Boss Katakuri Và Mấy Đồ Linh Tinh-------
-local LinhTinh = Tabs.an:AddSection("Main Setting Config")
-local Toggle = Tabs.an:AddToggle("Turn V4", { Title = "Tự Động Bật V4", Default = true })
-Toggle:OnChanged(function(Value)
-    RaceNguLon = Value
-end)
-
-task.spawn(
-    function()
-        while task.wait() do
-            task.wait()
-            if RaceNguLon then
-                if
-                game.Players.LocalPlayer.Character:FindFirstChild("RaceEnergy") and
-                game.Players.LocalPlayer.Character.RaceEnergy.Value >= 1 and
-                not game.Players.LocalPlayer.Character.RaceTransformed.Value
-                then
-                    local be = game:service("VirtualInputManager")
-                    be:SendKeyEvent(true, "Y", false, game)
-                    task.wait()
-                    be:SendKeyEvent(false, "Y", false, game)
-                end
-            end
-        end
-    end
-)
-local Toggle = Tabs.an:AddToggle("Tự Động Spawn Katakuri", { Title = "Tự Động Spawn Katakuti", Default = true })
-Toggle:OnChanged(function(Value)
-    _G.AutoSpawnCP = Value
-end)
-
-spawn(function() 
-   while wait() do
-      if _G.AutoSpawnCP then
-        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrinceSpawner",true)        
-         end
-      end
-   end) 
-
-local Toggle = Tabs.an:AddToggle("Walk Water", { Title = "Walk Water", Default = true })
-Toggle:OnChanged(function(Value)
-    _G.NuocLon = Value
-end)
-
-spawn(function()
-      while task.wait() do
-		pcall(function()
-			if _G.NuocLon then
-		    	game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,112,1000)
-					else
-				game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,80,1000)
-					end
-				end)
-			end
-		end)
-                          
-local Toggle = Tabs.an:AddToggle("Walk Water", { Title = "Auto Rejoin", Description = "Rejoin When Kick", Default = false })
-Toggle:OnChanged(function(Value)
-    _G.Rejoin = Value
-end)                          
-                          
-spawn(function()
-    while true do wait()
-        getgenv().rejoin = game:GetService("CoreGui").RobloxPromptGui.promptOverlay.ChildAdded:Connect(function(Kick)
-            if not _G.TP_Ser and _G.Rejoin then
-                if Kick.Name == 'ErrorPrompt' and Kick:FindFirstChild('MessageArea') and Kick.MessageArea:FindFirstChild("ErrorFrame") then
-                    game:GetService("TeleportService"):Teleport(game.PlaceId)
-                    wait(50)
-                end
-            end
-        end)
-    end
-end)                          
-
-local Toggle = Tabs.an:AddToggle("RemoveConMe", { Title = "Remove Damege", Description = "Xoá Damege", Default = false })
-Toggle:OnChanged(function(AnDepZaiHubOnTop)
-   removedame = AnDepZaiHubOnTop
-end)
-
-spawn(function()
-   while wait() do
-      if removedame then
-         game:GetService("ReplicatedStorage").Assets.GUI.DamageCounter.Enabled = false
-        else
-         game:GetService("ReplicatedStorage").Assets.GUI.DamageCounter.Enabled = true
-         end
-     end
- end)
-
-local Toggle = Tabs.an:AddToggle("RemoveConMe", { Title = "Xoá Thông Báo", Description = "Xoá Thông Báo Khi Những Gì Bạn Farm", Default = false })
-Toggle:OnChanged(function(AnDepZaiHubOnTop)
-   removenotify = AnDepZaiHubOnTop
-end)
-
-spawn(function()
-   while wait() do
-      if removenotify then
-         game.Players.LocalPlayer.PlayerGui.Notifications.Enabled = false
-      else
-         game.Players.LocalPlayer.PlayerGui.Notifications.Enabled = true
-      end
-   end
-end)
-
-Tabs.an:AddButton({
-    Title = "Hop Server Low Player",
-    Description = "",
-    Callback = function()
-HopLowServer()
-    end
-})
+               
 -------Tab Race-----
 local DaoNaoCac = Tabs.meo:AddParagraph({
-    Title = "Trạng Thái Đảo Bí Ẩn",
+    Title = "Trạng Thái Đảo",
     Content = ""
 })
 
 local function updateMirageStatus()
     local mirageIsland = game.Workspace._WorldOrigin.Locations:FindFirstChild('Đảo Kì Bí')
     if mirageIsland then
-        DaoNaoCac:SetDesc('Trạng Thái 🟢: Đang Có Đảo')
+        DaoNaoCac:SetDesc('🟢 — Đang Có Đảo')
     else
-        DaoNaoCac:SetDesc('Trạng Thái 🔴: Không Có Đảo')
+        DaoNaoCac:SetDesc('🔴 — Không Có Đảo')
     end
 end
 
@@ -3980,7 +3939,7 @@ spawn(function()
 end
 )
 
-local Toggle = Tabs.meo:AddToggle("Teleport", { Title = "Teleport Mirage Island", Default = false })
+local Toggle = Tabs.meo:AddToggle("Teleport", { Title = "Auto Bay Đến Đảo", Default = false })
 Toggle:OnChanged(function(Value)
     _G.DaoBiLon = Value
     StopTween(_G.DaoBiLon)
@@ -3997,7 +3956,7 @@ spawn(function()
                 end
             end)
         end)
-local Toggle = Tabs.meo:AddToggle("Teleport Gear", { Title = "Lock Moon", Default = false })
+local Toggle = Tabs.meo:AddToggle("Teleport Gear", { Title = "Auto Nhìn Mặt Trăng", Default = false })
 Toggle:OnChanged(function(Value)
     _G.TrangNhuCaiLonTao = Value
 end)
@@ -4016,7 +3975,7 @@ spawn(function()
 end)
 
 
-local Toggle = Tabs.meo:AddToggle("Teleport Gear", { Title = "Teleport Gear", Default = false })
+local Toggle = Tabs.meo:AddToggle("Teleport Gear", { Title = "Auto Đi Lấy Gear", Default = false })
 Toggle:OnChanged(function(Value)
     _G.Luom_Gear = Value
     StopTween(_G.Luom_Gear)
@@ -4040,85 +3999,32 @@ spawn(function()
     end)
 end)
 
-local Toggle = Tabs.meo:AddToggle("Teleport Gear", { Title = "Teleport Advanced Fruit", Default = false })
+local Toggle = Tabs.Race:AddToggle("Turn V4", { Title = "Auto Tự Bật Tộc V4", Default = true })
 Toggle:OnChanged(function(Value)
-    _G.RaDaoKhi = Value
-    StopTween(_G.RaDaoKhi)
+    RaceNguLon = Value
 end)
 
-spawn(function()
-    pcall(function()
-        while wait() do
-            if _G.RaDaoKhi then
-                if game:GetService("Workspace").NPCs:FindFirstChild("Advanced Fruit Dealer") then
-                    topos(CFrame.new(game:GetService("Workspace").NPCs["Advanced Fruit Dealer"].HumanoidRootPart.Position))
+task.spawn(
+    function()
+        while task.wait() do
+            task.wait()
+            if RaceNguLon then
+                if
+                game.Players.LocalPlayer.Character:FindFirstChild("RaceEnergy") and
+                game.Players.LocalPlayer.Character.RaceEnergy.Value >= 1 and
+                not game.Players.LocalPlayer.Character.RaceTransformed.Value
+                then
+                    local be = game:service("VirtualInputManager")
+                    be:SendKeyEvent(true, "Y", false, game)
+                    task.wait()
+                    be:SendKeyEvent(false, "Y", false, game)
                 end
             end
         end
     end
-    )
-end
 )
 
-function DaoKhiTrenCaoCuaAn()
-game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(
-        "requestEntrance",
-        Vector3.new(28282.5703125, 14896.8505859375, 105.1042709350586)
-        )
-end
-
-Tabs.Race:AddButton({
-    Title = "Teleport To Great Tree",
-    Description = "Tween Đến Đảo Cây",
-    Callback = function()
-    topos(CFrame.new(28603.7305, 14896.5352, 105.38382))
-    wait(.4)
-    local args = {
-    [1] = "RaceV4Progress",
-    [2] = "TeleportBack"
-}
-
-game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
-    end
-})
-
-Tabs.Race:AddButton({
-    Title = "Teleport Temple",
-    Description = "Tween Đến Cổng Temple",
-    Callback = function()
-       DaoKhiTrenCaoCuaAn()
-    end 
-})
-
-Tabs.Race:AddButton({
-    Title = "Teleport Install Gear",
-    Description = "Tween Đến Chỗ Gắn Gear",
-    Callback = function()
-    topos(CFrame.new(29539.582, 15068.6846, -86.7974472))
-    end
-})
-
-          Tabs.Race:AddButton({
-          Title = "Teleport To Race Door",
-          Description = "Tween Đến Cổng Race",
-          Callback = function()
-	           if game:GetService("Players").LocalPlayer.Data.Race.Value == "Human" then
-                topos(CFrame.new(29221.822265625, 14890.9755859375, -205.99114990234375))
-				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Skypiea" then
-                topos(CFrame.new(28960.158203125, 14919.6240234375, 235.03948974609375))
-				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Fishman" then
-                topos(CFrame.new(28231.17578125, 14890.9755859375, -211.64173889160156))
-				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Cyborg" then
-                topos(CFrame.new(28502.681640625, 14895.9755859375, -423.7279357910156))
-				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Ghoul" then
-                topos(CFrame.new(28674.244140625, 14890.6767578125, 445.4310607910156))
-				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Mink" then
-                topos(CFrame.new(29012.341796875, 14890.9755859375, -380.1492614746094))
-				end
-end
-})
- 
-local Toggle = Tabs.Race:AddToggle("Auto Complete Trial", { Title = "Auto Train-Buy Gear", Default = false })
+local Toggle = Tabs.Race:AddToggle("Auto Complete Trial", { Title = "Auto Train Mua Gear", Default = false })
 
 Toggle:OnChanged(function(Value)
     _G.Race_Ngu = Value
@@ -4242,7 +4148,7 @@ spawn(
     )
 end
 )                            
-local Toggle = Tabs.Race:AddToggle("Auto Complete Trial", { Title = "Auto Complete Trial", Default = false })
+local Toggle = Tabs.Race:AddToggle("Auto Thành Công Trial", { Title = "Auto Thành Công Trial", Default = false })
 
 Toggle:OnChanged(function(Value)
     _G.AutoComplete_Race = Value
@@ -4417,7 +4323,7 @@ spawn(function()
     end
 end
 )
-local Toggle = Tabs.Race:AddToggle("Kill Trial", { Title = "Kill Player Trial", Default = false })
+local Toggle = Tabs.Race:AddToggle("Kill Trial", { Title = "Auto Kill Người Trial", Default = false })
 Toggle:OnChanged(function(Value)
     _G.Kill_V4 = Value
     AutoActiveRace = Value
@@ -4469,6 +4375,83 @@ spawn(
     end
 end
 )
+local Toggle = Tabs.meo:AddToggle("Teleport Gear", { Title = "Teleport Advanced Fruit", Default = false })
+Toggle:OnChanged(function(Value)
+    _G.RaDaoKhi = Value
+    StopTween(_G.RaDaoKhi)
+end)
+
+spawn(function()
+    pcall(function()
+        while wait() do
+            if _G.RaDaoKhi then
+                if game:GetService("Workspace").NPCs:FindFirstChild("Advanced Fruit Dealer") then
+                    topos(CFrame.new(game:GetService("Workspace").NPCs["Advanced Fruit Dealer"].HumanoidRootPart.Position))
+                end
+            end
+        end
+    end
+    )
+end
+)
+
+function DaoKhiTrenCaoCuaAn()
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(
+        "requestEntrance",
+        Vector3.new(28282.5703125, 14896.8505859375, 105.1042709350586)
+        )
+end
+
+Tabs.Race:AddButton({
+    Title = "Teleport To Great Tree",
+    Description = "Tween Đến Đảo Cây",
+    Callback = function()
+    topos(CFrame.new(28603.7305, 14896.5352, 105.38382))
+    wait(.4)
+    local args = {
+    [1] = "RaceV4Progress",
+    [2] = "TeleportBack"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+    end
+})
+
+Tabs.Race:AddButton({
+    Title = "Teleport Temple",
+    Description = "Tween Đến Cổng Temple",
+    Callback = function()
+       DaoKhiTrenCaoCuaAn()
+    end 
+})
+
+Tabs.Race:AddButton({
+    Title = "Teleport Install Gear",
+    Description = "Tween Đến Chỗ Gắn Gear",
+    Callback = function()
+    topos(CFrame.new(29539.582, 15068.6846, -86.7974472))
+    end
+})
+
+          Tabs.Race:AddButton({
+          Title = "Teleport To Race Door",
+          Description = "Tween Đến Cổng Race",
+          Callback = function()
+	           if game:GetService("Players").LocalPlayer.Data.Race.Value == "Human" then
+                topos(CFrame.new(29221.822265625, 14890.9755859375, -205.99114990234375))
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Skypiea" then
+                topos(CFrame.new(28960.158203125, 14919.6240234375, 235.03948974609375))
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Fishman" then
+                topos(CFrame.new(28231.17578125, 14890.9755859375, -211.64173889160156))
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Cyborg" then
+                topos(CFrame.new(28502.681640625, 14895.9755859375, -423.7279357910156))
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Ghoul" then
+                topos(CFrame.new(28674.244140625, 14890.6767578125, 445.4310607910156))
+				elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Mink" then
+                topos(CFrame.new(29012.341796875, 14890.9755859375, -380.1492614746094))
+				end
+end
+})
 
 --Deo Muon Lam Aim Nhung Bang Cach Than Ki Nao Do Fast Attack Deo Pha Noi Ken 🤣
                      ------------Tab Raid Và Random Fruit Và Tele Fruit---------                       
@@ -4873,6 +4856,22 @@ Tabs.Melee:AddButton({
         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(a))
     end    
 })
+local Toggle = Tabs.Melee:AddToggle("Đi Được Trên Nước", { Title = "Đi Được Trên Nước", Default = true })
+Toggle:OnChanged(function(Value)
+    _G.NuocLon = Value
+end)
+
+spawn(function()
+      while task.wait() do
+		pcall(function()
+			if _G.NuocLon then
+		    	game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,112,1000)
+					else
+				game:GetService("Workspace").Map["WaterBase-Plane"].Size = Vector3.new(1000,80,1000)
+					end
+				end)
+			end
+		end)
 repeat
     wait()
 until game:IsLoaded()
